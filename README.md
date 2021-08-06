@@ -1,4 +1,3 @@
-# Simbex Reload API
 
 # Contents
 
